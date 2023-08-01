@@ -1,0 +1,37 @@
+body,font,td,p,select,textarea {
+    font-family: 'Noto Sans CJK TC', 'Noto Sans', sans-serif !important;
+	font-size: 12px;
+}
+
+body {
+	margin : 0 20% ;
+	
+}
+
+
+/*--------------------------------------------*/
+
+td [bgcolor*="#2F2FC0"]{
+	background-color : #49659e
+}
+
+td [bgcolor*="#E3E3FF"]{
+	background-color : #ececec
+}
+td [bgcolor*="#EEEEF7"]{
+	background-color : #fcfcfc
+}
+
+/*--------------------------------------------*/
+
+a:-webkit-any-link,acronym {
+    text-decoration: none;
+}
+
+img[src*="http://www.myav.com.tw/images/myavfb.jpg"] {
+    display: none;
+}
+
+a[href*="#"]{
+	display: none;
+}
