@@ -2,6 +2,11 @@
 
 Some Personal CSS tools for Stylus the Chrome plug-in.
 
+### Google
+
+- 置中
+- 字體
+
 ### PTT 
 
 - 推文樓層

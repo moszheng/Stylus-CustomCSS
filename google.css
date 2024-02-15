@@ -1,0 +1,46 @@
+/* ==UserStyle==
+@name           google.com - 2023/8/15 下午4:00:41
+@namespace      github.com/openstyles/stylus
+@version        1.0.0
+@description    Google Search align center
+@author         Me
+==/UserStyle== */
+@-moz-document domain("google.com") {
+    .g {
+        font-family: "DM Sans", "PingFang TC", "Noto Sans TC", "Segoe UI", "Helvetica", "sans-serif", "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    }
+	/* main block */
+	.GyAeWb {
+		justify-content: center;
+		max-width: 100%;
+	}
+	.s6JM6d {
+		margin-left: 0;
+	}
+	/* main block*/
+	.srp {
+		--center-abs-margin: 0px;
+	}
+	/* ------------Search form ------------*/
+	.tsf {
+		flex-grow: 1;
+	}
+	/* Search block */
+	.emcav.A8SBwf {
+		width: 100%;
+	}
+	.A8SBwf {
+		width: 100%;
+	}
+	.minidiv .RNNXgb {
+		margin: .5rem auto;
+	}
+	/* Search type */
+	.xhjkHe {
+		max-width: 100%;
+	}
+	/* --------Logo ------*/
+	.logo {
+		display: None;
+	}
+}
